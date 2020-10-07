@@ -1,0 +1,9 @@
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\bin\Debug\DrawingNumberFileGenerator.exe.config
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\bin\Debug\DrawingNumberFileGenerator.exe
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\bin\Debug\DrawingNumberFileGenerator.pdb
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\obj\Debug\DrawingNumberFileGenerator.Form1.resources
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\obj\Debug\DrawingNumberFileGenerator.Properties.Resources.resources
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\obj\Debug\DrawingNumberFileGenerator.csproj.GenerateResource.cache
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\obj\Debug\DrawingNumberFileGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\obj\Debug\DrawingNumberFileGenerator.exe
+C:\Users\mmendenh\Documents\Projects\drawingNumberFileGenerator\DrawingNumberFileGenerator\obj\Debug\DrawingNumberFileGenerator.pdb
